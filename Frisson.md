@@ -44,7 +44,7 @@ https://www.academia.edu/5008150/Anatomically_distinct_dopamine_release_during_a
 
 12 - de Fleurian, Rémi, and Marcus T. Pearce. “Chills in Music: A Systematic Review.” Psychological Bulletin 147, no. 9 (2021): 890–920. 
 https://doi.org/10.1037/bul0000341.
-https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/75159/De%20Fleurian%20Chills%20in%20Music%202021%20Accepted.pdf?isAllowed=y&sequence=2&utm_source=chatgpt.com
+https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/75159/De%20Fleurian%20Chills%20in%20Music%202021%20Accepted.pdf
 
 13 - Mori, Kazuma & Iwanaga, Makoto. (2017). Two types of peak emotional responses to music: The psychophysiology of chills and tears. Scientific Reports. 7. 46063. 10.1038/srep46063. 
 DOI:10.1038/srep46063
