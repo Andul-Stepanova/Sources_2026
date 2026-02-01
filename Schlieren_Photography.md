@@ -7,7 +7,7 @@ https://ntrs.nasa.gov/api/citations/20240014988/downloads/BOS_Review_SciTech25_S
 
 3 - Raffel, M. Background-oriented schlieren (BOS) techniques. Exp Fluids 56, 60 (2015). 
 https://doi.org/10.1007/s00348-015-1927-5
-https://link.springer.com/article/10.1007/s00348-015-1927-5?utm_source=chatgpt.com#citeas
+https://link.springer.com/article/10.1007/s00348-015-1927-5
 
 4 - Bertrand Mercier, Tom Lacassagne, Design rules for Background Oriented Schlieren experiments with least-squares based displacement calculation, Flow Measurement and Instrumentation, Volume 92, 2023, 102395, ISSN 0955-5986,
 https://doi.org/10.1016/j.flowmeasinst.2023.102395.
